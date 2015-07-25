@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0EGISLife_20141218_Lastest.iml" filepath="$PROJECT_DIR$/0EGISLife_20141218_Lastest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/egis_googleearth/egis_googleearth.iml" filepath="$PROJECT_DIR$/egis_googleearth/egis_googleearth.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample_StaggerGrid_lib/sample_StaggerGrid_lib.iml" filepath="$PROJECT_DIR$/sample_StaggerGrid_lib/sample_StaggerGrid_lib.iml" />
     </modules>

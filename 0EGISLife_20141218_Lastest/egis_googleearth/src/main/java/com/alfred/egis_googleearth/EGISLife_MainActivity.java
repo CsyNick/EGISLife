@@ -9,12 +9,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.chsy.ngis.rss.NgisRSSActivity;
-import com.example.tools.LocationTool;
-import com.givemepass.FragmentTabs.ArcgisActivity;
-import com.google.earth.viewer.ThreeDViewerActivity;
-import com.jpyu.MRTstation.TaipeiActivity;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
@@ -53,21 +47,21 @@ public class EGISLife_MainActivity extends Activity {
 	}
 
 	public void onLifeScore(View view) {
-		intent = new Intent(EGISLife_MainActivity.this, TaipeiActivity.class);
-		startActivity(intent);
+//		intent = new Intent(EGISLife_MainActivity.this, TaipeiActivity.class);
+//		startActivity(intent);
 	}
 
 	public void onThreeDViewer(View view){
-		intent =new Intent(EGISLife_MainActivity.this, ThreeDViewerActivity.class);
-		 startActivity(intent);
+//		intent =new Intent(EGISLife_MainActivity.this, ThreeDViewerActivity.class);
+//		 startActivity(intent);
 	}
 	public void onArcGIS(View view){
-		 intent =new Intent(EGISLife_MainActivity.this,ArcgisActivity.class);
-		 startActivity(intent);
+//		 intent =new Intent(EGISLife_MainActivity.this,ArcgisActivity.class);
+//		 startActivity(intent);
 	}
 	public void onEgisRss(View view){
-		 intent =new Intent(EGISLife_MainActivity.this,NgisRSSActivity.class);
-		 startActivity(intent);
+//		 intent =new Intent(EGISLife_MainActivity.this,NgisRSSActivity.class);
+//		 startActivity(intent);
 	}
 	public class LoadData extends AsyncTask<String, String, String> {
 
@@ -82,9 +76,9 @@ public class EGISLife_MainActivity extends Activity {
 		@Override
 		protected String doInBackground(String... params) {
 			// TODO Auto-generated method stub
-			LocationTool location = new LocationTool(EGISLife_MainActivity.this);
-			EGISLife_Data.MyLocation = location.getMyLocation();
-			testDBAssets();
+//			LocationTool location = new LocationTool(EGISLife_MainActivity.this);
+//			EGISLife_Data.MyLocation = location.getMyLocation();
+//			testDBAssets();
 			return null;
 		}
 

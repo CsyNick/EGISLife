@@ -1,2 +1,2 @@
-include ':app', ':egis_googleearth'
+include ':egis_googleearth'
 include ':sample_StaggerGrid_lib'
