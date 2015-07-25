@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac59940f-bf3d-4ac8-917f-b38885c02c8e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EGISLife.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/a_lvr_land_a.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/a_lvr_land_b.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/a_lvr_land_c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/db/LifeScoreTable.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/db/citymark" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/fonts/posto_b.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/assets/fonts/postoffice.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/MRT01/MRT01.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/TaipeiDistrict/district.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/TaipeiDistrict/taipei.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/TaipeiDistrict/taipeidistrict.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/adapter/Grid_Adapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/adapter/Grid_Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/kml/Tour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/FeedListAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/FeedListAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/FeedListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/GetServerMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/NgisEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/NgisRSSActivity$Background.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/NgisRSSActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/NgisRSSParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/chsy/ngis/rss/RSSContnetParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/database/sqldb/DBHelper_TaipeiLandmark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/database/sqldb/DataList_TaipeiLandmark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/database/sqldb/GUIGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/database/sqldb/LocationTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/database/sqldb/TaipeiLandmark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/etsy/android/grid/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/etsy/android/grid/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/etsy/android/grid/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/activity/ActivityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/activity/Activity_Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/activity/Activity_Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/adapter/Adapter_Pager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/adapter/GridAdapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/adapter/GridAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/adapter/List_Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/adapter/MyListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/Activity_HomeMenu$LoadData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/Activity_HomeMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/BaseDemoActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/CustomViewPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/EGISLife_Data.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/EGISLife_MainActivity$LoadData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/EGISLife_MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/HeatmapsMap$DataSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/HeatmapsMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/Manifest$permission.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/Manifest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/egislife/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/foundi/Building.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/foundi/IconGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/foundi/RotationLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/foundi/TransactionBuilding.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/foundi/XMLtoSQLiteHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/DFragment$ModelObj.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/DFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Fragment_Control$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Fragment_Control$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Fragment_Control$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Fragment_Control.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Map_Fragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/Map_Fragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/MyDialogFragment$EditNameDialogListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/MyDialogFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/TouchableWrapper$UpdateMapAfterUserInterection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/fragment/TouchableWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/google/GPSTracker$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/google/GPSTracker$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/google/GPSTracker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/FileCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/ImageLoader$BitmapDisplayer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/ImageLoader$PhotoToLoad.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/ImageLoader$PhotosLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/ImageLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/MemoryCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/imgfromurl/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/lifescore/tool/LifeScoreAnalysis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/object/GridItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/object/Landmark.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/object/MyData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/object/NineGridItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/object/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/ConnectionDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/GPSTracker$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/GPSTracker$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/GPSTracker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/ImageTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/LocationTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/NGISTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/tools/NineXNineGridTool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/example/usaul/tool/ShowSomething.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/ArcgisActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/ArcgisActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/ArcgisMapFragment$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/ArcgisMapFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/ArcgisMapFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/CustomViewPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/MyAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/givemepass/FragmentTabs/NgisLayerFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/android/gms/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/earth/viewer/ThreeDViewerActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/google/maps/android/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jawsware/core/share/OverlayService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jawsware/core/share/OverlayView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jawsware/core/share/OverlayView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/CircleMarker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/Info.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/MarkerList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/Taipei.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/TaipeiActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/TaipeiDistrict$MatrixChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/TaipeiDistrict$PhotoTapListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/TaipeiDistrict.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/com/jpyu/MRTstation/XMLUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/ArcGISTools$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/ArcGISTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/MapInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/MySeekBar$OnSeekBarChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/MySeekBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/NGisMapTools$LayerInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/arcgisTools/NGisMapTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/dashboard/DashboardLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/main/Arcgis_Grid_Adapter$ViewHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/csy/main/Arcgis_Grid_Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/utils/Logcat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer$DrawerToggler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer$OnDrawerCloseListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer$OnDrawerOpenListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer$OnDrawerScrollListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer$SlidingHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/me/wtao/widget/SlidingDrawer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/basic/AbstractDemoChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/basic/DataSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/basic/IDemoChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/basic/LifeScoreTools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuAverageTemperatureChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuBarChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuBudgetDoughnutChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuBudgetPieChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuCombinedTemperatureChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuMultipleTemperatureChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/org/achartengine/charttype/jpyuSalesBarChart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/samples/jawsware/interactiveoverlay/SampleOverlayHideActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/samples/jawsware/interactiveoverlay/SampleOverlayService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/samples/jawsware/interactiveoverlay/SampleOverlayView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/Compat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/DefaultOnDoubleTapListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/IPhotoView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$AnimatedZoomRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$FlingRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$OnMatrixChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$OnPhotoTapListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher$OnViewTapListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/PhotoViewAttacher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/CupcakeGestureDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/EclairGestureDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/FroyoGestureDetector$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/FroyoGestureDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/GestureDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/OnGestureListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/gestures/VersionedGestureDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/log/LogManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/log/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/log/LoggerDefault.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/scrollerproxy/GingerScroller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/scrollerproxy/IcsScroller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/classes/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-0d6cdbbcfce446aeff581fbf1f1e96e0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-179df191ed02b73b812919679eda3fe0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-1e8d8b40ee31611dfa9340dc72734d00.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-2191cd2444a6c8b8acb0b53787cc10a6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-2f894fff66b9d9159bbd401e95f5c76b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-35e3cd87efd5f6b2629f17007f8f6e4c.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-4a35ecf78dbf412772b8a86109169a11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-5714929a579f3fa1c380c87b34c57cda.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-5f57c15d5b152d2d42889376679a702a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-6c40fb4291e6a019fe2116e2aca9db41.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-7b34983d48d707c160a89421330a141f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-8d792b1a9d11eacc83dea22f7f283492.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-92d29c0ad4e7aa69d19040e23c82e73e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-af5293e8267b9de433a5acd0cae27494.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-ba6511019547d14569c6c89dfad558da.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-c0555c5277f4eb73692b9fb2f6c4c882.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-c60b62d426b767bb66ab2bdba0d5af0e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-c6aee256236fa44820315aca2eca54ad.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-c8d6a92c2ab7dadd2a7734480e3f33e7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-cd1ee57cb98c8b33f64938b49f4237ac.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-df4d168b56690e29d92edd159d39005d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-df53e5de84de0beb729b50d41545302f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-ebd805c5455cda5907c6f310e19de811.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-ee2dfbcb8f42d7b069fb3d4d1a4e991d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-eec4bf41173e9abf6ffadbc7e0cc3a52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-f660e8c6a68a92eca19310c285bea004.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/achartengine-1.1.0-ff350a69db5dac7a972e18574d5a9c93.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-16d411ac326aacf15e21f2e313614d3b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-332965ed264ddef1de1ebf4b0f0e7a2d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-59b94b41ae944bd0226bc42ffc1326d0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-6391fe5335f4d6a8b4b75c6ece4f513a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-771ecb55a287a603ab1c3f68fd9cd93a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-a625a356be150aa3d00e56434a462e05.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-b6c8ca9fd6145087072a87be44b692e5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-cdc507eb24ad215f098c8b220a0801d7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-e63b74fb10713c53a408cb4cadd9def0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v4-e826b60508668cbd0dd8705f221c7fc6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v7-appcompat-4660d6b6998fa70c77782118468b6d59.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v7-appcompat-95527197ae245b7d0d43e34b24499dc3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v7-appcompat-be2e4045ba52143ab717741a44553006.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/android-support-v7-appcompat-ea480bb25590b8b221a287353d36ee7d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/arcgis-android-api-fc5d715870a8ad5f9388c5cdb99d2696.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/flatuilibrary-c6575a44b7f48aebde33bac31b3c8d8e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-1ce399a97a576de0a549c374467a49b5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-252b33065657e1bb79e7461f50444dc2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-5c46e8dd48a4bd922c48a62c1612e520.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-62a0513a239388ee43d9e620cda5a811.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-9cffe3b2ad2218b0c1f4dcee77849006.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-9e83f2e1c68ed2d42da8393aaf4b4836.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services-c5bc91e73e88a97a7cc4c1699fc36a23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-320b30934295770840b0250c38164d80.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-3aa65a156615d26df47b6e7b84e0245f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-8539b3128e453f09d1a61b854b4f64c1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-8cd69da3832a55e110077b75787a1279.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-98466e50cf4a81f8411ddce764adb2eb.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-b7b92471de2899b2a720afc96393bc52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/google-play-services_lib-e6f423c894f979249ad6d6633847c54f.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jackson-core-lgpl-1.9.5-ee8cf2f82efc4955bcec3a62c604916e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jackson-mapper-lgpl-1.9.5-9d373e3df54f05285e972f4007930a2a.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jcifs-1.3.17-0961d243ca984a77e5c29186de617db5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsevaluator-2fd13e27534c9f82844d5fb69d06adff.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-0d1c3f3f49cae56040146ae887f5d18c.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-23f8d6ffe14b87ca58eca836355072af.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-35faf23a2d09f285a41bf56eaff4dcfd.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-4c03816ff888c6488f50136de6e96417.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-7c1838807e82a1529f11d6776389adec.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-97bd41b49b8580876bff2cb9c1e65e13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-9850921652727b257836b40dd9cecd59.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-b9285dc4c628bf4b096e2b641a086c80.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-c69525f3675b4154a5440ec0ad5cd67e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-c9011b33d24970ef9035df01ee0b8f94.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-d9358f330167517b37e53bd0a741b64c.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-e36325598cbdbf9979c7e946c0600e85.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-e5f93800e0fcba3310aeee3af7f66f3e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-f253a0e9d5a0ea392e62fb4b3ad5b4ea.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/jsoup-1.7.3-fdaa366ef33231a9258c30c9da762bbc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/mapsdemolib-2a6eb68ac85403ce5d27cf29fef9a74e.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/mapsdemolib-71431620c37cc5392c8cac76a0e6a758.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/mapsdemolib-86d67b7c45cc9fc9ccd0c70ade499972.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/mapsdemolib-a59f0472c00bbf2fc4f3e97ba304da62.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/mapsdemolib-b723e68f4466c5671a5628be533b060b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/sample_staggergrid_lib-31ca9f4feec6c8c08ac9166d7aea3795.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/sample_staggergrid_lib-39de3d9d4cb8acaaa228bdbe80c7d6ef.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/sample_staggergrid_lib-54ac5587f2411c0eb8c313b5e8f4245d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/dexedLibs/sample_staggergrid_lib-dbce70af09536d5df455db9f3861c3f1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/jarlist.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ab_bottom_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ab_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ab_stacked_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ab_texture_tile_egistheme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ab_transparent_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/btn_cab_done_default_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/btn_cab_done_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/btn_cab_done_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/cab_background_bottom_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/cab_background_top_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/earthcontrol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/egis2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/focus2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/focus_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/greencircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/icon_egis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/knowledge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/lifescore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/list_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/list_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/menu_dropdown_panel_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/progress_bg_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/progress_primary_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/progress_secondary_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/rssnews.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/spinner_ab_default_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/spinner_ab_disabled_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/spinner_ab_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/spinner_ab_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_selected_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_selected_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_selected_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_unselected_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_unselected_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/tab_unselected_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-hdpi/threed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-mdpi/list_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-mdpi/list_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-nodpi/focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-nodpi/greencircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-nodpi/mrt01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-nodpi/taipeidistrict.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-nodpi/wallpaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/a002b1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/andro_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/basin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/circle01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/custom_marker_buysell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/custom_marker_buysell_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/custom_marker_lease.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/custom_marker_predictsell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/distpws.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/earth_control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/egisscore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/equke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/food.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/gcidservice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/green_svg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/green_svg144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/gwobwell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/gwregion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/hosptial.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_egis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_goverment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_gym.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_landmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_mapp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_museum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_park.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_school.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/icon_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/irrig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/mineral.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ngis22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/planeslp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/ppobstanew.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/publiccareer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/reswshed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/rivqusta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/rivwlsta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/sagrcopt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/shopping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/taipeidistrict3d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/taiwans02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/res/crunch/drawable/transportation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/bin/resources.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/etsy/android/grid/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/example/egislife/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/example/egislife/Manifest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/example/egislife/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/google/android/gms/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/gen/com/google/maps/android/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/ic_launcher-web.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/libs/achartengine-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/libs/armeabi-v7a/libruntimecore_java.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/libs/armeabi/libruntimecore_java.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/libs/jsoup-1.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/libs/x86/libruntimecore_java.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/lint.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ab_bottom_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ab_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ab_stacked_solid_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ab_texture_tile_egistheme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ab_transparent_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/btn_cab_done_default_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/btn_cab_done_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/btn_cab_done_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/cab_background_bottom_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/cab_background_top_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/earthcontrol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/egis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/egis2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/focus2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/focus_red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/greencircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/icon_egis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/knowledge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/lifescore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/list_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/list_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/menu_dropdown_panel_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/progress_bg_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/progress_primary_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/progress_secondary_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/rssnews.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/spinner_ab_default_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/spinner_ab_disabled_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/spinner_ab_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/spinner_ab_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_selected_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_selected_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_selected_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_unselected_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_unselected_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/tab_unselected_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-hdpi/threed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-mdpi/list_focused_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-mdpi/list_pressed_egistheme.9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/greencircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/mrt01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/taipeidistrict.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/wallpaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-nodpi/wallpaper_org.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/a002b1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ab_background_textured_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/andro_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/basin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/btn_cab_done_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/btn_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/circle01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/custom_marker_buysell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/custom_marker_buysell_three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/custom_marker_lease.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/custom_marker_predictsell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/distpws.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/earth_control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/earth_overlay_back.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/egisscore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/equke.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/food.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/gcidservice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/green_svg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/green_svg144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/gwobwell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/gwregion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/hosptial.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_egis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_goverment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_gym.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_landmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_mapp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_museum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_park.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_school.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/icon_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/irrig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/mineral.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ngis_bg_parent_rounded_corner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/noimage.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/planeslp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/ppobstanew.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/progress_horizontal_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/publiccareer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/reswshed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/rivqusta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/rivwlsta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/sagrcopt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/selectable_background_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/shopping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/spinner_background_ab_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/tab_indicator_ab_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/taipeidistrict3d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/taiwans02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/drawable/transportation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/activity_culture.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/activity_home_menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/activity_test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_fragment_tabs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_gridview.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_info_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_list_item_threed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/arcgis_map.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/basemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/culture_controler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/custom_marker_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/dialogfragment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/draggable_grid_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/egis_mainlayout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/footer_layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/fragment_control_v2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/fragment_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/info_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/item_view_type.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/list_item_header_footer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/list_item_taipeidistrict.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/list_item_threed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/map_pager.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/map_v2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/marker.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/ngis_rss_mainlayout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/ngis_rssfeed_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/overlay.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/row.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/threedviwer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/layout/threedviwer_gridview.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/menu/menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/menu/threed_menu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/color.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/colorsFlatUi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/integers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/res/values/styles_egistheme.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/database/sqldb/DBHelper_TaipeiLandmark.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/database/sqldb/DataList_TaipeiLandmark.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/database/sqldb/GUIGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/database/sqldb/LocationTool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/database/sqldb/TaipeiLandmark.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/activity/ActivityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/activity/Activity_Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/adapter/Adapter_Pager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/adapter/GridAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/adapter/List_Adapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/adapter/MyListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/Activity_HomeMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/BaseDemoActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/CustomViewPager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/EGISLife_Data.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/EGISLife_MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/egislife/HeatmapsMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/foundi/Building.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/foundi/IconGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/foundi/RotationLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/foundi/TransactionBuilding.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/foundi/XMLtoSQLiteHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/fragment/DFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/fragment/Fragment_Control.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/fragment/Map_Fragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/fragment/MyDialogFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/fragment/TouchableWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/google/GPSTracker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/lifescore/tool/LifeScoreAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/object/GridItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/object/Landmark.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/object/MyData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/object/NineGridItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/object/Point.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/ConnectionDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/GPSTracker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/ImageTool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/LocationTool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/NGISTool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/tools/NineXNineGridTool.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/com/example/usaul/tool/ShowSomething.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/csy/dashboard/DashboardLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/basic/AbstractDemoChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/basic/DataSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/basic/IDemoChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/basic/LifeScoreTools.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuAverageTemperatureChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuBarChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuBudgetDoughnutChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuBudgetPieChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuCombinedTemperatureChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuMultipleTemperatureChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src/org/achartengine/charttype/jpyuSalesBarChart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/chsy/adapter/Grid_Adapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/chsy/kml/Tour.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/example/imgfromurl/FileCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/example/imgfromurl/ImageLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/example/imgfromurl/MemoryCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/example/imgfromurl/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_3DViewer/com/google/earth/viewer/ThreeDViewerActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/com/givemepass/FragmentTabs/ArcgisActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/com/givemepass/FragmentTabs/ArcgisMapFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/com/givemepass/FragmentTabs/CustomViewPager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/com/givemepass/FragmentTabs/MyAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/com/givemepass/FragmentTabs/NgisLayerFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/csy/arcgisTools/ArcGISTools.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/csy/arcgisTools/MapInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/csy/arcgisTools/MySeekBar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/csy/arcgisTools/NGisMapTools.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_ArcGis/csy/main/Arcgis_Grid_Adapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_EarthControl/com/jawsware/core/share/OverlayService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_EarthControl/com/jawsware/core/share/OverlayView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_EarthControl/samples/jawsware/interactiveoverlay/SampleOverlayHideActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_EarthControl/samples/jawsware/interactiveoverlay/SampleOverlayService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_EarthControl/samples/jawsware/interactiveoverlay/SampleOverlayView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/FeedListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/GetServerMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/NgisEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/NgisRSSActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/NgisRSSParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_NgisRSS/com/chsy/ngis/rss/RSSContnetParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/MRT01/MRT01.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/TaipeiDistrict/district.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/TaipeiDistrict/taipei.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/TaipeiDistrict/taipeidistrict.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/CricleMarker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/Info.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/MarkerList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/Taipei.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/TaipeiActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/TaipeiDistrict.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_jpyu/com/jpyu/MRTstation/XMLUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/Compat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/DefaultOnDoubleTapListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/IPhotoView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/PhotoView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/PhotoViewAttacher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/CupcakeGestureDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/EclairGestureDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/FroyoGestureDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/GestureDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/OnGestureListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/gestures/VersionedGestureDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/log/LogManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/log/Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/log/LoggerDefault.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/scrollerproxy/GingerScroller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/scrollerproxy/IcsScroller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/scrollerproxy/PreGingerScroller.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_photoview/uk/co/senab/photoview/scrollerproxy/ScrollerProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_view/me/wtao/utils/Logcat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/0EGISLife_20141218_Lastest/src_view/me/wtao/widget/SlidingDrawer.java" afterPath="" />
+    </list>
+    <ignored path="EGISLife.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EGISLife" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EGISLife" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EGISLife" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EGISLife" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AndroidEnvirnment/sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac59940f-bf3d-4ac8-917f-b38885c02c8e" name="Default" comment="" />
+      <created>1437801037194</created>
+      <option name="number" value="Default" />
+      <updated>1437801037194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<com.givemepass.FragmentTabs.CustomViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/pager"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+</com.givemepass.FragmentTabs.CustomViewPager><!-- From: file:/Users/nick/Desktop/EGISLife/0EGISLife_20141218_Lastest/app/src/main/res/layout/arcgis_fragment_tabs.xml -->

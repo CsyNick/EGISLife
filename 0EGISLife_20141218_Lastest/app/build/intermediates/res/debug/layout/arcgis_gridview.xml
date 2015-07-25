@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+	<com.etsy.android.grid.StaggeredGridView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:app="http://schemas.android.com/apk/res-auto"
+	    android:id="@+id/grid_view"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="#DDDDDD"
+	    app:item_margin="8dp" 
+	    app:column_count="@integer/grid_column_count"
+	   />
+
+</FrameLayout>
+<!-- From: file:/Users/nick/Desktop/EGISLife/0EGISLife_20141218_Lastest/app/src/main/res/layout/arcgis_gridview.xml -->

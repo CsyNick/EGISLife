@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+        <item android:id="@+id/menuitem_Foundi"
+          android:title="@string/Foundi"
+          android:showAsAction="ifRoom" />
+    
+      <item android:id="@+id/menuitem_LifeScoreLayer"
+          android:title="@string/LifeScoreLayer"
+          android:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/menuitem_LandMark"
+          android:title="@string/LandMark"
+          android:showAsAction="ifRoom" />
+    
+</menu>
+<!-- From: file:/Users/nick/Desktop/EGISLife/0EGISLife_20141218_Lastest/app/src/main/res/menu/menu.xml -->

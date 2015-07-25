@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/ViewItemImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/ViewItemText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ViewItemImage"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/flatui_green_sea"
+        android:text="TextView01" >
+    </TextView>
+    
+</RelativeLayout><!-- From: file:/Users/nick/Desktop/EGISLife/0EGISLife_20141218_Lastest/app/src/main/res/layout/item_view_type.xml -->
