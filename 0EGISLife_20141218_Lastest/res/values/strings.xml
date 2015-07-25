@@ -1,0 +1,133 @@
+<resources>
+
+    <string name="app_name">EGISLife走著瞧</string>
+    <string name="googleAPIKey_kuan">AIzaSyD3ACjCtTrah51PbmiPWBxYUBGnqLwXkJo</string>
+    <string name="googleAPIKey_chsy"></string>
+    <string name="Activity_NGISMap">經濟地理地圖</string>
+    <string name="GoogleMapV2ApiKey_kuan">AIzaSyAd4z1vwnIkllzlCX6zxO9h2PHA6Te26Sg</string>
+    <string name="GoogleMapV2ApiKey_chsy">AIzaSyBLbjzS3Ae7TOWCLNauKdg09rkl6STyVZs</string>
+    <string name="GoogleMapV2ApiKey_jpyu">AIzaSyAnv_NZU2BbxDE8BO1ucCJKoocfEqI_5pQ</string>
+
+    <array name="lifeScore">
+        <item>休閒購物</item>
+        <item>美食佳餚</item>
+        <item>政府機關</item>
+        <item>藝術文化</item>
+        <item>文教機構</item>
+        <item>交通建設</item>
+        <item>公用事業</item>
+        <item>工商服務</item>
+        <item>醫療保健</item>
+    </array>
+
+    <string-array name="heatmaps_datasets_array">
+        <item>"MRTLocation"</item>
+    </string-array>
+
+    <array name="NGISLayer_Name_array">
+        <item>EGIS圖層</item>
+        <item>台北市行政區概況</item>
+          <item>降雨量圖</item>
+        <item>一月氣溫圖</item>
+        <item>日照時數圖</item>
+        <item>地質圖</item>
+        <item>土壤圖</item>
+        <item>供水系統</item>
+        <item>河川流域</item>
+        <item>現存礦區</item>
+        <item>地形起伏</item>
+        <item>地形圖</item>
+        <item>等高線圖</item>
+        <item>雨量站</item>
+        <item>礦物礦產</item>
+        <item>地震震央</item>
+        <item>河川水質測站</item>
+        <item>氣象站</item>
+        <item>地下水分區</item>
+    </array>
+    <array name="ARCGIS_NGISLayer_Name_array">
+        <item>氣象站</item>
+        <item>礦物與礦產</item>
+        <item>河川水位測站</item>
+        <item>地下水位測站</item>
+        <item>衛星控制點</item>
+        <item>河川水質測站</item>
+        <item>地震震央</item>
+        <item>活動斷層</item>
+        <item>水庫集水區</item>
+        <item>地下水分區</item>
+        <item>自來水區處</item>
+        <item>農田水利會</item>
+        <item>土壤圖</item>
+        <item>河川流域</item>
+    </array>
+    <array name="ARCGIS_NGISLayer_Content_array">
+        <item>中央氣象局目前在台灣地區設有26個氣象站，除了遵照國際標準的觀測時間之外，又加上一天4次的輔助觀測，即每3個小時就會觀測一次。此外，中央氣象局還普設上百個自動氣象站與二百多個自動雨量站，利用太陽能板充電並使用天線發射無線電信號定時將自動觀測到的氣象數據發報至區域資料處理站的電腦，區域站再將資料傳至中央氣象局，對全台各地的氣象可說是佈下了綿密的監測網。</item>
+        <item>礦物與人類的生活可說是息息相關，由於人類廣泛應用礦物的化學成分或物理、化學性質於日常生活的食衣住行之中，不但提升了生活品質，同時也為人類的經濟發展，奠定了深厚的基礎。不可諱言的，隨著工業與科技的進步，人類對礦物資源的需求勢將日益殷切，但是礦物為不可再生的資源，如何節約並有效的利用地球上寶貴的資產，實為人類必須面對的嚴峻課題</item>
+        <item>河川水位是某站水面高於任意設置基準零點之高度，基準零點有時取於平均海平面，但一般取於河川流量為零時之河床面為基準點。</item>
+        <item>河川流域是地表水與地下水分水線所包圍的集水區或匯水區。因地下水分水線不易確定，習慣上將地表水的集水區稱為流域。河道幹流的流域是由所屬各級支流的流域所組成。流域面積的確定，可根據地形圖勾出流域分水線，然後求出分水線所包圍的面積。河流的流域面積可以計算到河流的任一河段，如水文站控制斷面，水庫壩址或任一支流的匯合口處。流域裏大大小小的河流，構成脈絡相通的係統，稱為河系或水系。</item>
+        <item>一國之基本測量包括大地控制、高程控制網、重力網等三大測量工作，關於陸域大地控制網部分，內政部已於82年度採用GPS衛星定位測量技術陸續執行「應用全球定位系統實施台閩地區基本控制點測量計畫」、「國家基本測量控制點建立及應用計畫」及「國家基本測量發展計畫」，至87年度建立完成衛星控制點系統。</item>
+        <item>水質水量保護區一般通稱為「水源保護區」，依據不同法令有因不同目的而劃設之保護區</item>
+        <item>台灣地震成因是由於台灣位在環太平洋地震帶（南、北美洲太平洋沿岸，阿留申群島、堪察 加半島，千島群島、日本列島，經臺灣再到菲律賓轉向東南直至紐西蘭），是地球上地震最活躍的地區，集中了全世界80%以上的地震。本區是在太平洋板塊和美洲板塊、亞歐板塊、印度洋板塊的消亡邊界，南極洲板塊和美洲板塊的消亡邊界上。</item>
+        <item>活動斷層是指現今仍在活動，並且可能在不久的將來再次發生錯動的斷層。地殼為何會產生斷層呢？當地殼受力時會以各種變形的方式來承受壓力，初期會以彎曲或扭曲的的變形方式來紓緩壓力。之後，當地殼無法承受壓力時就會以斷裂的方式，將所累積的能量紓解出來。釋放的能量就以波的態表現出來，波被釋放時就造成殼的震動，也就所謂的地震。</item>
+        <item>臺灣地區至九十一年底，已完成之水庫壩堰計有89座，其中以曾文水庫最大，總容量708百萬立方公尺，有效容量609百萬立方公尺，占臺灣地區有效容量之28.7％；壩堰高度以德基水庫180公尺稱霸(臺電大樓高127.5公尺，臺北新光三越大樓244公尺)；壩堰長度則以阿公店水庫2,380公尺最長；而位於高雄縣美濃鎮的中正湖水庫歷史最悠久，早在乾隆13年就已完工，至今已255歲；在16個縣中，南投縣因有12座水庫壩堰而稱冠，彰化縣及雲林縣則1座也沒有。</item>
+        <item>尚無資料取得</item>
+        <item>台灣省自來水公司成立後，依據「台灣省自來水事業統一經營實施方案」，將全省各自來水廠分區合併納入，建立區管理處為責任中心，實施分權經營企業管理制度，各管理處負責各區域之引水、蓄水、淨水、供水、回收等事宜。原成立10個管理處，後因擴展業務，分別於民國65年將第四區管理處所轄之彰化縣字來水系統劃出為第十一區管理處，77年將第二區管理處所轄之台北縣自來水系統劃出，成立第十二區管理處。目前全省除台北縣新店、永和全市，三重、中和二市大部分及汐止市小部分劃歸「台北自來水事業處」負責供水外，其餘皆為台灣省自來水公司供水範圍。</item>
+        <item>一農田灌溉關係民生甚重、農地甚廣，我國為以稻米生產為主要作物的最成功國家之一，經過長期的發展，不僅現有之營運組織頗具規模，現有之灌溉工程設施亦頗為完善，因此就灌溉技術、用水調配及營運管理組織是世界上少數最成功的國家。為了有效調配運用灌溉水資源，臺灣地區設有十七個農田水利會，除調配用水外並負責維護其轄內之灌溉設施，以維持農田灌溉用水之供應及排除多餘之水量。目前農田水利會重要設施包括導水路、幹線、支線、分線、中小給水路、隧道及排水路，攔水壩、水門、渡槽、渠首工、水橋、跌水工、暗渠及量水設備等，分由各地農田水利會管理營運中。</item>
+        <item>目前具參考價值之土壤圖為農業試驗所亦繪製1/100,000之縣土壤圖，並縮小轉繪成1/500,000「臺灣地區土壤圖」，是目前最新最完整的土壤圖。</item>
+        <item>河川流域是地表水與地下水分水線所包圍的集水區或匯水區。因地下水分水線不易確定，習慣上將地表水的集水區稱為流域。河道幹流的流域是由所屬各級支流的流域所組成。流域面積的確定，可根據地形圖勾出流域分水線，然後求出分水線所包圍的面積。河流的流域面積可以計算到河流的任一河段，如水文站控制斷面，水庫壩址或任一支流的匯合口處。流域裏大大小小的河流，構成脈絡相通的係統，稱為河系或水系。</item>
+    </array>
+    <array name="NGISLayer_URL_Normal_array">
+         <item>EGisLayer.kml</item>
+        <item>TaipeiDistrictDescription.kml</item>
+         <item>Ngis01.kml</item>
+        <item>Ngis10.kml</item>
+        <item>Ngis22.kml</item>
+        <item>Ngis02.kml</item>
+        <item>Ngis03.kml</item>
+        <item>Ngis04.kml</item>
+        <item>Ngis05.kml</item>
+        <item>Ngis06.kml</item>
+        <item>Ngis07.kml</item>
+        <item>Ngis08.kml</item>
+        <item>Ngis09.kml</item>
+        <item>Ngis12.kml</item>
+        <item>Ngis13.kml</item>
+        <item>Ngis14.kml</item>
+        <item>Ngis15.kml</item>
+        <item>Ngis17.kml</item>
+        <item>Ngis19.kml</item>
+    </array>
+    <array name="NGISLayer_URL_Normal_array2">
+        <item>Ngis01_降雨量圖.kml</item>
+        <item>Ngis10_一月氣溫圖.kml</item>
+        <item>Ngis22_日照時數圖.kml</item>
+        <item>Ngis02_地質圖.kml</item>
+        <item>Ngis03_土壤圖.kml</item>
+        <item>Ngis04_供水系統.kml</item>
+        <item>Ngis05_河川流域.kml</item>
+        <item>Ngis06_現存礦區.kml</item>
+        <item>Ngis07_地形起伏.kml</item>
+        <item>Ngis08_地形圖.kml</item>
+        <item>Ngis09_等高線圖.kml</item>
+        <item>Ngis12_雨量站.kml</item>
+        <item>Ngis13_礦物礦產.kml</item>
+        <item>Ngis14_地震震央.kml</item>
+        <item>Ngis15_河川水質測站.kml</item>
+        <item>Ngis17_氣象站.kml</item>
+        <item>Ngis19_地下水分區.kml</item>
+    </array>
+    <string name="title_notification">Running Earth Control UI</string>
+    <string name="message_notification">Press To Hide Control UI</string>
+    <string name="lifeAnalysis">設定生活指標分析條件</string>
+    <string name="LandMark">地標模式</string>
+    <string name="NavigationMode">啟動GE控制元件</string>
+    <string name="M_Mode">手動模式</string>
+    <string name="LifeScoreLayer">生活指數</string>
+    <string name="Foundi">實價登錄</string>
+    <string name="threeDTaiwan">3D台灣趣</string>
+    <string name="TaiwanLayerViewer">台灣豐富自然導覽</string>
+    <string name="NgisRSSEvent">自然環境事件簿</string>
+    <string name="ChooseDistrict">請選擇區域</string>
+
+</resources>

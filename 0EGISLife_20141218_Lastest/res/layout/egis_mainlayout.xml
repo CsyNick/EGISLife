@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/egis2"
+        android:alpha="0.5" />
+
+    
+<csy.dashboard.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+    
+	<!--  News Trip Button -->
+    <Button
+        android:id="@+id/btn_LifeScore"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/lifescore"
+        android:textColor="@color/flatui_green_sea"
+        android:textStyle="bold"
+        android:text="生活機能指數" 
+        android:textSize="20sp"
+        android:onClick="onLifeScore"/>
+    
+	<!-- List Trips Button -->
+    <Button
+        android:id="@+id/btn_3DViewer"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/threed"
+          android:textColor="@color/flatui_green_sea"
+        android:textStyle="bold"
+          android:textSize="20sp"
+        android:text="3D台灣趣" 
+        android:onClick="onThreeDViewer"/>
+    
+	<!--  TripInfo Button -->
+    <Button
+        android:id="@+id/btn_ArcGIS"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/knowledge"
+          android:textColor="@color/flatui_green_sea"
+        android:textStyle="bold"
+          android:textSize="20sp"
+        android:text="自然資源知識庫"
+        android:onClick="onArcGIS" />
+	
+    <!--  Share Button -->
+    <Button
+        android:id="@+id/btn_EGISRss"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/rssnews"
+          android:textColor="@color/flatui_green_sea"
+        android:textStyle="bold"
+        android:text="環境事件簿" 
+          android:textSize="20sp"
+        android:onClick="onEgisRss"/>
+
+  
+
+</csy.dashboard.DashboardLayout>
+
+		
+    	    
+</FrameLayout>

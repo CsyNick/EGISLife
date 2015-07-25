@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    
+    <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">20dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">50dp</dimen>
+    <dimen name="feed_item_profile_info_padd">10dp</dimen>
+    <dimen name="feed_item_profile_name">15dp</dimen>
+    <dimen name="feed_item_timestamp">13dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">15dp</dimen>
+    <dimen name="feed_item_status_pad_top">13dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+
+    
+      <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="shape_corner_radius">0dp</dimen>
+    <dimen name="shape_stroke_width">1dp</dimen>
+    <dimen name="view_margin">2dp</dimen>
+    <dimen name="sliding_drawer_outter_height">768dp</dimen>
+    <dimen name="sliding_drawer_outter_width">512dp</dimen>
+    <dimen name="horizontal_handle_width">128dp</dimen>
+    <dimen name="horizontal_handle_height">64dp</dimen>
+    <dimen name="vertical_handle_width">@dimen/horizontal_handle_height</dimen>
+    <dimen name="vertical_handle_height">@dimen/horizontal_handle_width</dimen>
+    <dimen name="expanded_offset">64dp</dimen>
+    <dimen name="collapsed_offset">32dp</dimen>
+</resources>

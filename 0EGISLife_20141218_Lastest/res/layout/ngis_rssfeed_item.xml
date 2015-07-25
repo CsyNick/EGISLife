@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/feed_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="@dimen/feed_item_margin"
+        android:layout_marginRight="@dimen/feed_item_margin"
+        android:layout_marginTop="@dimen/feed_item_margin"
+        android:background="@drawable/ngis_bg_parent_rounded_corner"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/feed_item_padding_top_bottom"
+        android:paddingTop="@dimen/feed_item_padding_top_bottom" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/feed_item_padding_left_right"
+            android:paddingRight="@dimen/feed_item_padding_left_right" >
+
+      
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="top"
+          
+                android:paddingLeft="@dimen/feed_item_profile_info_padd" >
+
+                <Button
+                    android:id="@+id/btn_map"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/icon_mapp"
+                       android:focusable="false"/>
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+               android:singleLine="true"
+     
+                    android:text="天好天天天天"
+                    android:textSize="@dimen/feed_item_profile_name"
+                    android:textStyle="bold" />
+               
+        </LinearLayout>
+
+         </LinearLayout>
+            
+
+        <ImageView
+	        android:id="@+id/imgBnbPhoto"
+	     android:layout_width="300dp"
+            android:layout_height="200dp"
+	        android:layout_gravity="center"
+	        android:src="@drawable/noimage" 
+	         />
+
+        <TextView
+            android:id="@+id/txtpublishDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+               android:layout_gravity="right"
+                android:layout_marginRight="20dp"
+            android:text="TextView" />
+
+    </LinearLayout>
+
+</LinearLayout>
